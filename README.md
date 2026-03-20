@@ -10,21 +10,6 @@
 PhD student at **Tianjin University of Technology**.  
 My research interests include **Semantic Segmentation** and **Model Lightweighting**.
 
-    </td>
-  </tr>
-</table>
-
----
-
-## 👨‍💻 Personal Profile
-
-<table>
-  <tr>
-    <td>
-
-### Hui Liu
-PhD student, Tianjin University of Technology  
-
 🔬 **Research Interests**
 - Semantic Segmentation  
 - Model Lightweighting
@@ -56,13 +41,4 @@ PhD student, Tianjin University of Technology
 
 - I care a lot about the balance between **model performance** and **real-world efficiency**.
 - I like turning complex ideas into concise visual explanations.
-- I believe research is not only about SOTA, but also about making models truly usable.
-
----
-
-## 📊 GitHub Stats
-
-![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
-
----
+- I believe research is not only about SOTA, but also about making models
