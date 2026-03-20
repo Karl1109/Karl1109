@@ -1,7 +1,18 @@
 ## 👋 Hi, I'm Hui Liu
 
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320204744053.jpg" width="150" style="border-radius: 50%;" alt="Hui Liu avatar" />
+    </td>
+    <td>
+
 PhD student at **Tianjin University of Technology**.  
 My research interests include **Semantic Segmentation** and **Model Lightweighting**.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,17 +37,26 @@ PhD student, Tianjin University of Technology
 
 ## 🏆 Publications
 
-- **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**
-- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**
+- **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**  
+  🔗 Repository: https://github.com/Karl1109/SCSegamba
+- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**  
+  🔗 Repository: https://github.com/Karl1109/LIDAR-Mamba
 
 ---
 
-## 🛠 Tech Stack
+## 🎵 Beyond Research
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Favorite bands: **Omnipotent Youth Society (万能青年旅店)**, **Sound Fragment (声音碎片)**, **Wang Wen (惘闻)**
+- I enjoy discovering post-rock, indie, and experimental music while coding.
+- A perfect day for me: clean code, reproducible experiments, and a great album on loop.
+
+---
+
+## ✨ Fun Facts
+
+- I care a lot about the balance between **model performance** and **real-world efficiency**.
+- I like turning complex ideas into concise visual explanations.
+- I believe research is not only about SOTA, but also about making models truly usable.
 
 ---
 
@@ -46,8 +66,3 @@ PhD student, Tianjin University of Technology
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
 
 ---
-
-## 📫 Contact
-
-- Email: `liuhui1109@stud.tjut.edu.cn`
-- Google Scholar: https://scholar.google.com/citations?user=t-dHc0AAAAAJ
