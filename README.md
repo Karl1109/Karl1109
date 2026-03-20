@@ -49,10 +49,9 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 I enjoy discovering post-rock, indie, and experimental music while coding.  
 A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
-<p align="center">
-  <em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
-  <em>西郊有密林，助君出重围。</em>
-</p>
+<em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
+<em>西郊有密林，助君出重围。</em>
+
 
 <table>
   <tr>
