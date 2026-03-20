@@ -47,9 +47,40 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 
 ## 🎵 Beyond Research
 
-- Favorite bands: **Omnipotent Youth Society (万能青年��店)**, **Sound Fragment (声音碎片)**, **Wang Wen (惘闻)**
-- I enjoy discovering post-rock, indie, and experimental music while coding.
-- A perfect day for me: clean code, reproducible experiments, and a great album on loop.
+I enjoy discovering post-rock, indie, and experimental music while coding.  
+A perfect day for me: clean code, reproducible experiments, and a great album on loop.
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" /><br /><br />
+      <strong>万能青年旅店</strong><br />
+      <sub>Omnipotent Youth Society</sub><br /><br />
+      <sub>代表作 · 点击播放</sub><br />
+      <a href="https://music.163.com/song?id=1805290318&uct2=U2FsdGVkX1/H1gSwjHPyeITEKV09k2BvMy2oe/D3XfY=">
+        <img src="https://img.shields.io/badge/%E2%96%B6%20Play-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-E60026?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="Play on NetEase Music" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" /><br /><br />
+      <strong>声音碎片</strong><br />
+      <sub>Sound Fragment</sub><br /><br />
+      <sub>代表作 · 点击播放</sub><br />
+      <a href="https://music.163.com/song?id=1365208495&uct2=U2FsdGVkX19WLke6iXZ5FawhTCYCLVogU5z4jLIh9Xk=">
+        <img src="https://img.shields.io/badge/%E2%96%B6%20Play-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-E60026?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="Play on NetEase Music" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557019.jpg" width="220" alt="惘闻" /><br /><br />
+      <strong>惘闻</strong><br />
+      <sub>Wang Wen</sub><br /><br />
+      <sub>代表作 · 点击播放</sub><br />
+      <a href="https://music.163.com/song?id=385322&uct2=U2FsdGVkX1/OGDM9W0hVWXzfSbGXVbZl4mxGCceHngg=">
+        <img src="https://img.shields.io/badge/%E2%96%B6%20Play-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-E60026?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="Play on NetEase Music" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
