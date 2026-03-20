@@ -29,9 +29,25 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 
 ---
 
+## 📦 Repository Stats
+
+### SCSegamba
+![Stars](https://img.shields.io/github/stars/Karl1109/SCSegamba?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Karl1109/SCSegamba?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Karl1109/SCSegamba?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Karl1109/SCSegamba?style=for-the-badge)
+
+### LIDAR-Mamba
+![Stars](https://img.shields.io/github/stars/Karl1109/LIDAR-Mamba?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Karl1109/LIDAR-Mamba?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Karl1109/LIDAR-Mamba?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Karl1109/LIDAR-Mamba?style=for-the-badge)
+
+---
+
 ## 🎵 Beyond Research
 
-- Favorite bands: **Omnipotent Youth Society (万能青年旅店)**, **Sound Fragment (声音碎片)**, **Wang Wen (惘闻)**
+- Favorite bands: **Omnipotent Youth Society (万能青年��店)**, **Sound Fragment (声音碎片)**, **Wang Wen (惘闻)**
 - I enjoy discovering post-rock, indie, and experimental music while coding.
 - A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
@@ -41,4 +57,13 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 
 - I care a lot about the balance between **model performance** and **real-world efficiency**.
 - I like turning complex ideas into concise visual explanations.
-- I believe research is not only about SOTA, but also about making models
+- I believe research is not only about SOTA, but also about making models truly usable.
+
+---
+
+## 📊 GitHub Stats
+
+![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
+
+---
