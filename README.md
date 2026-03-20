@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi, I'm Hui Liu
 
-<!--
-**Karl1109/Karl1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student at **Tianjin University of Technology**.  
+My research interests include **Semantic Segmentation** and **Model Lightweighting**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Personal Profile
+
+<table>
+  <tr>
+    <td>
+
+### Hui Liu
+PhD student, Tianjin University of Technology  
+
+🔬 **Research Interests**
+- Semantic Segmentation  
+- Model Lightweighting
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Selected Publications (CVPR & ACM MM)
+
+- **CVPR**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**
+- **ACM MM**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
+
+---
+
+## 📫 Contact
+
+- Email: `liuhui1109@stud.tjut.edu.cn`
+- Google Scholar: https://scholar.google.com/citations?user=t-dHc0AAAAAJ
