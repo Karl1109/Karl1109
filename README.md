@@ -20,30 +20,29 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 
 ---
 
-## 🏆 Publications
+## 📊 GitHub Stats
 
-- **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**  
-  🔗 Repository: https://github.com/Karl1109/SCSegamba
-- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**  
-  🔗 Repository: https://github.com/Karl1109/LIDAR-Mamba
+![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
 
 ---
 
-## 📦 Repository Stats
+## 🏆 Publications
 
-### SCSegamba
+- **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**  
 ![Stars](https://img.shields.io/github/stars/Karl1109/SCSegamba?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Karl1109/SCSegamba?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/SCSegamba?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/SCSegamba?style=for-the-badge)
-
-### LIDAR-Mamba
+- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**  
 ![Stars](https://img.shields.io/github/stars/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/LIDAR-Mamba?style=for-the-badge)
 
 ---
+
+
 
 ## 🎵 Beyond Research
 
@@ -83,9 +82,4 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 
 ---
 
-## 📊 GitHub Stats
 
-![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
-
----
