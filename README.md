@@ -20,30 +20,30 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 
 ---
 
-## 📊 GitHub Stats
-
-![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
-
----
-
 ## 🏆 Publications
 
 - **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**  
+  🔗 Repository: https://github.com/Karl1109/SCSegamba
+- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**  
+  🔗 Repository: https://github.com/Karl1109/LIDAR-Mamba
+
+---
+
+## 📦 Repository Stats
+
+### SCSegamba
 ![Stars](https://img.shields.io/github/stars/Karl1109/SCSegamba?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Karl1109/SCSegamba?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/SCSegamba?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/SCSegamba?style=for-the-badge)
 
-
-- **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**  
+### LIDAR-Mamba
 ![Stars](https://img.shields.io/github/stars/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/LIDAR-Mamba?style=for-the-badge)
 
 ---
-
 
 ## 🎵 Beyond Research
 
@@ -52,33 +52,23 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 
 <table>
   <tr>
-    <td width="240" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" />
-    </td>
-    <td valign="middle">
+      <br /><br />
       <strong>万能青年旅店</strong><br />
-      <sub>Omnipotent Youth Society</sub><br /><br />
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1805290318&auto=0&height=66"></iframe>
+      <sub>Omnipotent Youth Society</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="240" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" />
-    </td>
-    <td valign="middle">
+      <br /><br />
       <strong>声音碎片</strong><br />
-      <sub>Sound Fragment</sub><br /><br />
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1365208495&auto=0&height=66"></iframe>
+      <sub>Sound Fragment</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="240" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557019.jpg" width="220" alt="惘闻" />
-    </td>
-    <td valign="middle">
+      <br /><br />
       <strong>惘闻</strong><br />
-      <sub>Wang Wen</sub><br /><br />
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=385322&auto=0&height=66"></iframe>
+      <sub>Wang Wen</sub>
     </td>
   </tr>
 </table>
@@ -93,4 +83,9 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 
 ---
 
+## 📊 GitHub Stats
 
+![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
+
+---
