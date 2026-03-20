@@ -24,7 +24,7 @@ PhD student, Tianjin University of Technology
 
 ---
 
-## 🏆 Selected Publications
+## 🏆 Publications
 
 - **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**
 - **ACM MM 2025**: **LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**
