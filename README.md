@@ -49,45 +49,41 @@ My research interests include **Semantic Segmentation** and **Model Lightweighti
 I enjoy discovering post-rock, indie, and experimental music while coding.  
 A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
-**In the western outskirts, dense woods wait to help you break the siege.**
-**西郊有密林，助君出重围。**
+<p align="center">
+  <em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
+  <em>西郊有密林，助君出重围。</em>
+</p>
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" />
+      <br /><br />
       <strong>万能青年旅店</strong><br />
-      <br /><br />
-      <strong>Omnipotent Youth Society</strong><br />
-      <br /><br />
-      <sub>《山雀》</sub>
-      <br /><br />
-      <sub>《河北墨麒麟》</sub>
-      <br /><br />
+      <sub>Omnipotent Youth Society</sub><br /><br />
+      <sub><strong>Selected Tracks</strong></sub><br />
+      <sub>《山雀》</sub><br />
+      <sub>《河北墨麒麟》</sub><br />
       <sub>《揪心的玩笑与漫长的白日梦》</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" />
+      <br /><br />
       <strong>声音碎片</strong><br />
-      <br /><br />
-      <strong>Sound Fragmen</strong><br />
-      <br /><br />
-      <sub>《送流水》</sub>
-      <br /><br />
-      <sub>《黄金时代》</sub>
-      <br /><br />
+      <sub>Sound Fragment</sub><br /><br />
+      <sub><strong>Selected Tracks</strong></sub><br />
+      <sub>《送流水》</sub><br />
+      <sub>《黄金时代》</sub><br />
       <sub>《致我的迷茫兄弟》</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557019.jpg" width="220" alt="惘闻" />
+      <br /><br />
       <strong>惘闻</strong><br />
-      <br /><br />
-      <strong>Wang Wen</strong><br />
-      <br /><br />
-      <sub>《Lonely God》</sub>
-      <br /><br />
-      <sub>《水之湄》</sub>
-      <br /><br />
+      <sub>Wang Wen</sub><br /><br />
+      <sub><strong>Selected Tracks</strong></sub><br />
+      <sub>《Lonely God》</sub><br />
+      <sub>《水之湄》</sub><br />
       <sub>《21世纪不适症》</sub>
     </td>
   </tr>
@@ -102,5 +98,4 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 - I believe research is not only about SOTA, but also about making models truly usable.
 
 ---
-
 
