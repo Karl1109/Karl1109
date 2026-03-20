@@ -57,25 +57,37 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" />
       <strong>万能青年旅店</strong><br />
+      <br /><br />
       <strong>Omnipotent Youth Society</strong><br />
+      <br /><br />
       <sub>《山雀》</sub>
+      <br /><br />
       <sub>《河北墨麒麟》</sub>
+      <br /><br />
       <sub>《揪心的玩笑与漫长的白日梦》</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" />
       <strong>声音碎片</strong><br />
+      <br /><br />
       <strong>Sound Fragmen</strong><br />
+      <br /><br />
       <sub>《送流水》</sub>
+      <br /><br />
       <sub>《黄金时代》</sub>
+      <br /><br />
       <sub>《致我的迷茫兄弟》</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557019.jpg" width="220" alt="惘闻" />
       <strong>惘闻</strong><br />
+      <br /><br />
       <strong>Wang Wen</strong><br />
+      <br /><br />
       <sub>《Lonely God》</sub>
+      <br /><br />
       <sub>《水之湄》</sub>
+      <br /><br />
       <sub>《21世纪不适症》</sub>
     </td>
   </tr>
