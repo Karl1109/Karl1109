@@ -2,22 +2,27 @@
 
 <table>
   <tr>
-    <td width="180">
+    <td width="180" align="center">
       <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320204744053.jpg" width="150" style="border-radius: 50%;" alt="Hui Liu avatar" />
     </td>
-    <td>
+    <td valign="top">
 
-Currently a **PhD student at Tianjin University of Technology**.  
-My research interests include **Semantic Segmentation** and **Model Lightweighting**.
+### PhD Student @ Tianjin University of Technology
 
-🎓 **Education**
-- **PhD student**, Tianjin University of Technology  
+Currently pursuing a PhD degree at **Tianjin University of Technology**,  
+working in the **Key Laboratory of Computer Vision and System, Ministry of Education**.
+
+#### 🎓 Education
+- **PhD Student**  
+  *Tianjin University of Technology*  
   *Key Laboratory of Computer Vision and System, Ministry of Education*
-- **B.Eng.**, Qilu University of Technology (Shandong Academy of Sciences), Jinan, China, 2023
 
-🔬 **Research Interests**
-- Semantic Segmentation
-- Model Lightweighting
+- **B.Eng. in 2023**  
+  *Qilu University of Technology (Shandong Academy of Sciences), Jinan, China*
+
+#### 🔬 Research Interests
+- **Semantic Segmentation**
+- **Model Lightweighting**
 
     </td>
   </tr>
