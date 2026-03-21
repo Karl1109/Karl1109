@@ -9,16 +9,16 @@
 
 ### PhD Student @ Tianjin University of Technology
 
-Currently pursuing a PhD degree at **Tianjin University of Technology**,  
-working in the **Key Laboratory of Computer Vision and System, Ministry of Education**.
-
 #### 🎓 Education
-- **PhD Student**  
-  *Tianjin University of Technology*  
+- **PhD Student. 2023-Present**  
+  **Tianjin University of Technology, Tianjin, China**
   *Key Laboratory of Computer Vision and System, Ministry of Education*
+  *Engineering Research Center of Learning-Based Intelligent System (Ministry of Education)*
+  *School of Computer Science and Engineering*
 
-- **B.Eng. in 2023**  
-  *Qilu University of Technology (Shandong Academy of Sciences), Jinan, China*
+- **B.Eng. 2019-2023*  
+  **Qilu University of Technology (Shandong Academy of Sciences), Jinan, China**
+  *Faculty of Computer Science and Technology*
 
 #### 🔬 Research Interests
 - **Semantic Segmentation**
