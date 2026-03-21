@@ -7,7 +7,7 @@
     </td>
     <td>
 
-PhD student at **Tianjin University of Technology**.  
+I received my bachelor's degree from **Qilu University of Technology (Shandong Academy of Sciences)**, Jinan, China, in 2023. I am currently a PhD student in the **Key Laboratory of Computer Vision and System, Ministry of Education**, **Tianjin University of Technology**.  
 My research interests include **Semantic Segmentation** and **Model Lightweighting**.
 
 🔬 **Research Interests**
