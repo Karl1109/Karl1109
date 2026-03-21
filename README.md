@@ -11,13 +11,13 @@
 
 #### 🎓 Education
 - **PhD Student. 2023-Present**  
-  **Tianjin University of Technology, Tianjin, China**
+  *Tianjin University of Technology, Tianjin, China*
   *Key Laboratory of Computer Vision and System, Ministry of Education*
   *Engineering Research Center of Learning-Based Intelligent System (Ministry of Education)*
   *School of Computer Science and Engineering*
 
 - **B.Eng. 2019-2023*  
-  **Qilu University of Technology (Shandong Academy of Sciences), Jinan, China**
+  *Qilu University of Technology (Shandong Academy of Sciences), Jinan, China*
   *Faculty of Computer Science and Technology*
 
 #### 🔬 Research Interests
