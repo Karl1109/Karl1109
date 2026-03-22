@@ -58,7 +58,7 @@
 
 ## 🎵 Beyond Research
 
-I enjoy discovering post-rock, indie, and experimental music while coding.  
+I enjoy discovering indie rock, post-rock and experimental music while coding.
 A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
 <em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
@@ -99,14 +99,6 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
     </td>
   </tr>
 </table>
-
----
-
-## ✨ Fun Facts
-
-- I care a lot about the balance between **model performance** and **real-world efficiency**.
-- I like turning complex ideas into concise visual explanations.
-- I believe research is not only about SOTA, but also about making models truly usable.
 
 ---
 
