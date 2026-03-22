@@ -62,8 +62,8 @@ I enjoy discovering indie rock, post-rock and experimental music while coding.
 
 A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
-<em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
-<em>西郊有密林，助君出重围。</em>
+<em>In the western outskirts, dense woods wait to help you break the siege. --Omnipotent Youth Society</em><br />
+<em>西郊有密林，助君出重围。--万能青年旅店</em>
 
 
 <table>
