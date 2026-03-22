@@ -59,6 +59,7 @@
 ## 🎵 Beyond Research
 
 I enjoy discovering indie rock, post-rock and experimental music while coding.
+
 A perfect day for me: clean code, reproducible experiments, and a great album on loop.
 
 <em>In the western outskirts, dense woods wait to help you break the siege.</em><br />
