@@ -32,13 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hui Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karl1109&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl1109&layout=compact)
-
----
-
 ## 🏆 Publications
 
 - **CVPR 2025**: **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**  
