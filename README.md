@@ -96,3 +96,10 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 
 ---
 
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Karl1109?style=for-the-badge&logo=github&theme=dark)
+![GitHub User's stars](https://img.shields.io/github/stars/Karl1109?style=for-the-badge&logo=github&affiliations=OWNER)
+
+</div>
+
