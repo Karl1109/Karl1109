@@ -82,7 +82,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
       <sub>《致我的迷茫兄弟》</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557019.jpg" width="220" alt="惘闻" />
+      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260716095754135.jpg" width="220" alt="惘闻" />
       <br /><br />
       <strong>惘闻</strong><br />
       <sub>Wang Wen</sub><br /><br />
