@@ -44,6 +44,11 @@
 ![Forks](https://img.shields.io/github/forks/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/LIDAR-Mamba?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/LIDAR-Mamba?style=for-the-badge)
+- **ACM MM 2026**: **Compass: Degradation-Simulated Reciprocal Learning with Lightweight Needle RWKV for Multimodal Crack Segmentation under Missing Modalities**  
+![Stars](https://img.shields.io/github/stars/Karl1109/Compass?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Karl1109/Compass?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Karl1109/Compass?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Karl1109/Compass?style=for-the-badge)
 
 ---
 
