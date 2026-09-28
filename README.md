@@ -49,7 +49,11 @@
 ![Forks](https://img.shields.io/github/forks/Karl1109/Compass?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Karl1109/Compass?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Karl1109/Compass?style=for-the-badge)
-
+- **NeurIPS 2026**: **Prism: Harmonizing Missing Modalities via Implicit Structural Alignment on Lightweight Pulse RWKV for Multimodal Crack Segmentation**  
+![Stars](https://img.shields.io/github/stars/Karl1109/Prism?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Karl1109/Prism?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Karl1109/Prism?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Karl1109/Prism?style=for-the-badge)
 ---
 
 
