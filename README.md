@@ -68,7 +68,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
   <tr>
     <td width="33%" align="center" valign="top">
       <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" /> -->
-      <br /><br />
+      <!-- <br /><br /> -->
       <strong>万能青年旅店</strong><br />
       <sub>Omnipotent Youth Society</sub><br /><br />
       <sub><strong>Selected Tracks</strong></sub><br />
@@ -78,7 +78,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
     </td>
     <td width="33%" align="center" valign="top">
       <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" /> -->
-      <br /><br />
+      <!-- <br /><br /> -->
       <strong>声音碎片</strong><br />
       <sub>Sound Fragment</sub><br /><br />
       <sub><strong>Selected Tracks</strong></sub><br />
@@ -88,7 +88,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
     </td>
     <td width="33%" align="center" valign="top">
       <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260928181221415.jpg" width="220" alt="惘闻" /> -->
-      <br /><br />
+      <!-- <br /><br /> -->
       <strong>惘闻</strong><br />
       <sub>Wang Wen</sub><br /><br />
       <sub><strong>Selected Tracks</strong></sub><br />
