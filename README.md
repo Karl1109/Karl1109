@@ -2,10 +2,6 @@
 
 <table>
   <tr>
-    <td width="180" align="center" valign="top">
-      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320204744053.jpg" width="150" style="border-radius: 50%;" alt="Hui Liu avatar" />
-    </td>
-    <td valign="top">
 
 ### PhD Student @ Tianjin University of Technology
 
@@ -71,7 +67,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" />
+      <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557017.jpg" width="220" alt="万能青年旅店" /> -->
       <br /><br />
       <strong>万能青年旅店</strong><br />
       <sub>Omnipotent Youth Society</sub><br /><br />
@@ -81,7 +77,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
       <sub>《揪心的玩笑与漫长的白日梦》</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" />
+      <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260320205557018.jpg" width="220" alt="声音碎片" /> -->
       <br /><br />
       <strong>声音碎片</strong><br />
       <sub>Sound Fragment</sub><br /><br />
@@ -91,7 +87,7 @@ A perfect day for me: clean code, reproducible experiments, and a great album on
       <sub>《致我的迷茫兄弟》</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260928181221415.jpg" width="220" alt="惘闻" />
+      <!-- <img src="https://mylight1109.oss-cn-beijing.aliyuncs.com/mgImg/20260928181221415.jpg" width="220" alt="惘闻" /> -->
       <br /><br />
       <strong>惘闻</strong><br />
       <sub>Wang Wen</sub><br /><br />
